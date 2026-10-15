@@ -1,11 +1,11 @@
 
 # The V Lab Learning & Project Hub
 
-The account-wide learning and project portal for the LaboratoireV GitHub account, and the home of the biostatistics course. The home page indexes 28 standalone HTML pages across seven public repositories and links to the epidemiology, data visualization, R Markdown, synthetic health-data project, and Snowflake material, plus the Alberta Health Data Atlas.
+The account-wide learning and project portal for The V Lab GitHub organization (The-V-Lab), and the home of the biostatistics course. The home page indexes 28 standalone HTML pages across seven public repositories and links to the epidemiology, data visualization, R Markdown, synthetic health-data project, and Snowflake material, plus the Alberta Health Data Atlas.
 
 ## Live site
 
-Visit [The V Lab Learning & Project Hub](https://laboratoirev.github.io/Statistics_Study/) to browse the projects, search every HTML page, or follow the recommended biostatistics learning path.
+Visit [The V Lab Learning & Project Hub](https://the-v-lab.github.io/Statistics_Study/) to browse the projects, search every HTML page, or follow the recommended biostatistics learning path.
 
 ## Account directory
 
