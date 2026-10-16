@@ -1,7 +1,7 @@
 
 # The V Lab Learning & Project Hub
 
-The account-wide learning and project portal for The V Lab GitHub organization (The-V-Lab), and the home of the biostatistics course. The home page indexes 28 standalone HTML pages across seven public repositories and links to the epidemiology, data visualization, R Markdown, synthetic health-data project, and Snowflake material, plus the Alberta Health Data Atlas.
+The account-wide learning and project portal for The V Lab GitHub organization (The-V-Lab), and the home of the biostatistics course. The home page indexes 39 standalone HTML pages across eight public repositories and links to the epidemiology, data visualization, R Markdown, synthetic health-data project, Snowflake and ArcGIS material, plus the Alberta Health Data Atlas.
 
 ## Live site
 
@@ -9,10 +9,9 @@ Visit [The V Lab Learning & Project Hub](https://the-v-lab.github.io/Statistics_
 
 ## Account directory
 
-The directory was verified against the seven public repositories on 2026-08-12 and updated on 2026-10-15:
+The directory was first verified on 2026-08-12 and updated on 2026-10-16 against eight public repositories:
 
-- 28 standalone HTML pages, 27 of them published through GitHub Pages;
-- 1 `SNOWFLAKE_Skills` page is still source-only, because Pages is not enabled for that repository;
+- 39 standalone HTML pages, all published through GitHub Pages;
 - the `includes/` header and footer fragments are not counted as standalone pages;
 - `HealthcareData_Knowledge` has no repository HTML; the Alberta Health Data Atlas is linked at [vthelab.com/atlas.html](https://vthelab.com/atlas.html);
 - the home-page directory is static HTML. Search and filters run in the browser only; they do not call the GitHub API or collect any input.
